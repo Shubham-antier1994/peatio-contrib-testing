@@ -37,7 +37,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "activesupport", "~> 5.2.3"
-  spec.add_dependency "better-faraday", "~> 1.0.5"
+  spec.add_dependency "better-faraday", "~> 2.0.1"
   spec.add_dependency "faraday", "~> 0.17"
   spec.add_dependency "memoist", "~> 0.16.0"
   spec.add_dependency "peatio", ">= 0.6.3"
